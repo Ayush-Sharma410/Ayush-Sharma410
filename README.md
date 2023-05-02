@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python,javascript,node.js**
 
-- 📫 How to reach me **ayushsharma2267410@gmail.com**
+- 📫 Reach me at **ayushsharma2267410@gmail.com**
 
 - ⚡ Fun fact **I am more of a tea person☕**
 
