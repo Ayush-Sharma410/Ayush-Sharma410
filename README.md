@@ -5,9 +5,9 @@
 
  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AGI**
 
-- 💬 Ask me about **python,javascript,node.js**
+- 💬 Ask me about **Legal Tech**
 
 - 📫 Reach me at **ayushsharma2267410@gmail.com**
 
